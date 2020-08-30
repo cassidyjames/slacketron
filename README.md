@@ -5,7 +5,7 @@ Electron wrapper for Slack, built with Nativefier. Focused on arm64 support for 
 ## Dependencies
 
 - `npm`
-- `nativefier` >= 10.1.0 (via npm)
+- `nativefier` >= 10.1.0 (via npm: `sudo npm i -g nativefier`)
 
 ## Building
 
