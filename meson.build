@@ -5,6 +5,6 @@ project(
 )
 
 nativefier = find_program('nativefier')
-meson.add_install_script('build.sh')
+meson.add_install_script('meson/build.sh')
 
 subdir('data')
