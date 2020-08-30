@@ -1,6 +1,6 @@
 # slacketron
 
-Electron wrapper for Slack, built with Nativefier
+Electron wrapper for Slack, built with Nativefier. Focused on arm64 support for now.
 
 ## Dependencies
 
