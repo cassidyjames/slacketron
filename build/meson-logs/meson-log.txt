@@ -1,0 +1,77 @@
+Build started at 2020-08-30T16:32:38.267312
+Main binary: /usr/bin/python3
+Build Options: -Dprefix=/usr
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/cassidyjames/Projects/cassidyjames/slacketron
+Build dir: /home/cassidyjames/Projects/cassidyjames/slacketron/build
+Build type: native build
+Project name: com.github.cassidyjames.slacketron
+Project version: 1.0.0
+No CFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+No CPPFLAGS in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/cassidyjames/Projects/cassidyjames/slacketron/build/meson-private/sanitycheckc.c -o /home/cassidyjames/Projects/cassidyjames/slacketron/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/cassidyjames/Projects/cassidyjames/slacketron/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: cc (gcc 9.3.0 "cc (Ubuntu 9.3.0-10ubuntu2) 9.3.0")
+C linker for the build machine: cc ld.bfd 2.34
+No VALAFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+Running compile:
+Working directory:  /tmp/tmp0_qntj51
+Command line:  valac /tmp/tmp0_qntj51/testfile.vala -C 
+
+Code:
+ class MesonSanityCheck : Object { }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Vala compiler for the build machine: valac (valac 0.48.9)
+No CFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+No CPPFLAGS in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/cassidyjames/Projects/cassidyjames/slacketron/build/meson-private/sanitycheckc.c -o /home/cassidyjames/Projects/cassidyjames/slacketron/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/cassidyjames/Projects/cassidyjames/slacketron/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: cc (gcc 9.3.0 "cc (Ubuntu 9.3.0-10ubuntu2) 9.3.0")
+C linker for the host machine: cc ld.bfd 2.34
+No VALAFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+Using cached compile:
+Cached command line:  valac /tmp/tmp0_qntj51/testfile.vala -C 
+
+Code:
+ class MesonSanityCheck : Object { }
+Cached compiler stdout:
+ 
+Cached compiler stderr:
+ 
+Vala compiler for the host machine: valac (valac 0.48.9)
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Program nativefier found: YES (/usr/local/bin/nativefier)
+Program build.sh found: YES (/home/cassidyjames/Projects/cassidyjames/slacketron/build.sh)
+Build targets in project: 0
+
+Found ninja-1.10.0 at /usr/bin/ninja

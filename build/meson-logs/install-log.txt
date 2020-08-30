@@ -1,0 +1,4 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/share/icons/hicolor/512x512/apps/com.github.cassidyjames.slacketron.png
+/usr/share/applications/com.github.cassidyjames.slacketron.desktop

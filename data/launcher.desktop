@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Slack
+GenericName=Internet Group Chat
+Comment=Chat with your team
+Categories=Internet;
+Exec=/usr/share/Slack-linux-arm64/Slack
+Icon=/usr/share/icons/hicolor/512x512/apps/com.github.cassidyjames.slacketron.png
+Terminal=false
+Type=Application
