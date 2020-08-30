@@ -1,1 +1,4 @@
-nativefier --name Slack https://app.slack.com/client/
+nativefier https://app.slack.com/client/ \
+  --name Slack \
+  --background-color '#ededed' \
+  --single-instance --disable-dev-tools
